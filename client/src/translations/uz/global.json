@@ -1,0 +1,197 @@
+{
+    "header": {
+        "welcome_message":  "Mening blogimga xush kelibsiz",
+        "home":  "BOSH SAHIFA",
+        "about":  "BIZ HAQIMIDA",
+        "services":  "XIZMATLAR",
+        "project":  "LOYIHALAR",
+        "contact":  "BOG'LANISH"
+    },
+    "footer": {
+        "follow": "FOLLOW US",
+        "legal": "HUQUQIY",
+        "home":  "BOSH SAHIFA",
+        "about":  "BIZ HAQIMIDA",
+        "services":  "XIZMATLAR",
+        "project":  "LOYIHALAR",
+        "contact":  "BOG'LANISH",
+        "privacy":  "Maxfiylik siyosati",
+        "terms":  "Foydalanish shartlari"
+    },
+    "homePage": {
+        "body": {
+            "welcome_message2": "Mening blogimga xush kelibsiz",
+            "infoP": "Bu yerda siz veb-ishlab chiqish, dasturiy ta'minot muhandisligi va dasturlash tillari kabi mavzularda mening loyihalarim haqida turli maqolalar, qo'llanmalar va ma'lumotlarni topasiz.",
+            "post_resent": "Oxirgi xabarlar",
+            "view_all_posts": "Barcha xabarlarni ko'rish"
+        }
+    },
+    "aboutPage": {
+        "about_me": "Rasulovdev blogi haqida",
+        "about_me1": "Men haqimda",
+        "about_me2": "Men Nurbek Rasulov, O'zbekistonning Qashqadaryo viloyatidanman, hozir Qashqadaryo viloyati Qarshi shahrida yashayman.",
+        "about_meContact": "Bog'lanish",
+        "about_learn": "O'rganishlar",
+        "about_learnAb": "Men Qashqadaryo vil Qamashi tumanidanman va hozirda Qarshi shahrida yashayman. Shunday qilib, 2021 yildan boshlab men IT markazida Full Stack Dasturlash bo‘yicha o‘qishni boshladim.",
+        "learn_calendar": "Frontend dasturlash",
+        "learn_calendar1": "Backend dasturlash",
+        "learn_calendar2": "Amaliyot",
+        "learn_calendar3": "Mustaqil tadqiqotlar",
+        "learn_calendar4": "Xosting platformalari",
+        "learn_calendar5": "Keyingi yillarda va hozirgacha",
+        "me": "Rasulovdev blogiga xush kelibsiz! Ushbu blog Rasulov Nurbek tomonidan o'z fikr va g'oyalarini dunyo bilan bo'lishish maqsadida shaxsiy g'alaba sifatida yaratilgan. Nurbek - texnologiya, kodlash va boshqa narsalar haqida yozishni yaxshi ko'radigan ishtiyoqli dasturchi. Ushbu blogda siz veb-ishlab chiqish, dasturiy ta'minot muhandisligi va dasturlash tillari kabi mavzularda haftalik maqolalar va o'quv qo'llanmalarini topasiz. Sizni bizning postlarimizga sharhlar qoldirishni va boshqa o'quvchilar bilan muloqot qilishni tavsiya qilamiz. Siz boshqalarning sharhlarini yoqtirishingiz va ularga ham javob berishingiz mumkin. Biz o‘quvchilar hamjamiyati bir-biriga o‘sishi va takomillashishiga yordam berishiga ishonamiz.",
+        "me2": "Sizni bizning postlarimizga sharhlar qoldirishni va boshqa o'quvchilar bilan muloqot qilishni tavsiya qilamiz. Siz boshqalarning sharhlarini yoqtirishingiz va ularga ham javob berishingiz mumkin. Biz o‘quvchilar hamjamiyati bir-biriga o‘sishi va takomillashishiga yordam berishiga ishonamiz.",
+        "win_info": "Mening sertifikatlarim"
+    },
+    "contact": {
+        "contact_h1": "Biz bilan bog'lanish",
+        "contact_h1_sub": "Kontakt xabarini yuboring",
+        "mapCard_info": "O‘zbekistonning Qarshi shahridanman va hozirda Qashqadaryo viloyati Qarshi shahrida yashayman.",
+        "mapCard_socail": "Ijtimoiy sahifalar",
+        "contact_form": {
+            "input_name": "Ismingiz",
+            "input_email": "Elektron manzilingiz",
+            "input_phone": "Telefo raqamingiz",
+            "input_messages": "Xabar",
+            "form_submit": "Yuborish"
+        }
+    },
+    "projects": {
+        "project_h1":"Mening Loyihalarim",
+        "project_subs":"Mening yangi loyihalarim haqida xabardor bo'lish uchun ijtimoiy sahifalarimga obuna bo'ling"
+    },
+    "search": {
+        "term_search": "Qidiruv atamasi:",
+        "Sort": "Saralash:",
+        "Latest": "Oxirgilar",
+        "Oldest": "Avvalgilar",
+        "Category": "Turkum:",
+        "Uncategorized": "Kategoriyasiz",
+        "Apply_Filters": "Filtrlarni qo'llash",
+        "posts_results:": "Natijalarni joylashtirish:",
+        "show_more.": "Ko'proq ko'rsatish"
+    },
+    "post": {
+        "mins_read": "O'qish",
+        "recent_articles": "Oxirgi maqolalar",
+        "post_card": {
+            "not_comment": "Hozircha izohlar yo'q!",
+            "fc_sgn": "Fikr bildirish uchun tizimga kirishingiz kerak.",
+            "not_comment1": " dssfdgfg",
+            "not_comment2": " dssfdgfg",
+            "not_comment3": " dssfdgfg",
+            "not_comment4": " dssfdgfg"
+        },
+        "com_vuser": "Hisobga kirlgan:",
+        "post_submit": "Yuborish"
+    },
+    "sign": {
+        "sign_in": "Tizimga kirish",
+        "sign_up": "Ruyxatdan o'tish",
+        "my_inf": "Bu demo loyiha. Siz elektron pochtangiz va parolingiz yoki Google orqali ro'yxatdan o'tishingiz mumkin.",
+        "sign_form":{
+            "name": "Sizning foydalanuvchi ismingiz",
+            "email": "Eelektron manzilingiz",
+            "password": "Parolingiz",
+            "confpassword": "Parolingizni tasdiqlang"
+        },
+        "yes_acc": "Hisobingiz bormi?",
+        "not_acc": "Hisobingiz yo'qmi?",
+        "with_google": "Google bilan davom eting",
+        "signUpAlert": "Iltimos, barcha maydonlarni toʻldiring.",
+        "signUpAlert1": "Parol kamida 6 ta belgidan iborat bo'lishi kerak",
+        "signUpAlert2": "Parollar mos kelmadi."
+    },
+    "profile": {
+        "delete": "Hisobni o'chirish",
+        "out": "Tizimdan chiqish",
+        "update": "Yangilash",
+        "add_project": "Loyiha qo'shish",
+        "add_wins": "Sertifikat qo'shish"
+    },
+    "admin": {
+        "del_alert": "Haqiqatan ham oʻchirib tashlamoqchimisiz",
+        "del_yes": "Ha, ishonchim komil",
+        "del_no": "Yo'q, bekor qiling",
+        "delete": "Oʻchirish",
+        "edit": "Tahrirlash"
+    },
+    "dash": {
+        "add_post": "Post qo'shish",
+        "add_project": "Loyiha qo'shish",
+        "add_win": "Sertifikat qo'shish",
+        "category": "Kategoriyani tanlang",
+        "publish": "Nashr qilish",
+        "del": "OʻCHIRISH",
+        "edit": "TAHRISHASH",
+        "side_dash": {
+            "name": "Boshqaruv paneli",
+            "profile": "Profil",
+            "posts": "Xabarlar",
+            "projects": "Loyihalar",
+            "wins": "Sertifikatlar",
+            "comments": "Izohlar",
+            "users": "Foydalanuvchilar"
+        },
+        "dash_main": {
+            "last_cards": "O `tgan oy",
+            "total_posts": "JAMI POSLAR",
+            "total_projects": "JAMI LOYIHALAR",
+            "total_users": "JAMI FOYDALANUVCHILAR",
+            "total_comments": "JAMI IZOHLAR",
+            "total_wins": "UMUMIY SERTIFIKATLAR",
+            "see_all": "Hammasini ko'rish",
+            "recent_users": "Oxirgi foydalanuvchilar",
+            "recent_posts": "Oxirgi xabarlar",
+            "recent_projects": "Oxirgi loyihalar",
+            "recent_wins": "Oxirgi Sertifikatlar",
+            "recent_comments": "Oxirgi sharhlar"
+        },
+        "dash_post": {
+            "date": "YANGILANGAN SANA",
+            "image": "POST RASMI",
+            "title": "POST TITLE",
+            "catrgory": "KATEGORIYA"
+        },
+        "dash_project": {
+            "date": "YANGILANGAN SANA",
+            "image": "LOYIHA RASMI",
+            "title": "LOYIHA TITLE",
+            "catrgory": "KATEGORIYA"
+        },
+        "dash_wins": {
+            "date": "YANGILANGAN SANA",
+            "image": "SERTIFIKAT IMAGE",
+            "title": "SERTIFIKAT TITLE",
+            "catrgory": "KATEGORIYA"
+        },
+        "dash_users": {
+            "date": "DATE REGISTERID",
+            "image": "FOYDALANUVCHI RASMI",
+            "name": "USERNAME",
+            "email": "EMAIL",
+            "catrgory": "KATEGORIYA"
+        },
+        "post_update": {
+            "h1": "Postni Yangilash",
+            "btn": "Postni yangilash"
+        },
+        "project_update": {
+            "h1": "Loyihani yangilash",
+            "btn": " Loyihani yangilash"
+        },
+        "win_update": {
+            "h1": "Sertifikatlarni yangilash",
+            "btn": "Sertifikatlarni yangilash"
+        }
+    },
+    "cookie": {
+        "set_text" : "“Barcha cookie-fayllarni qabul qilish” tugmasini bosish orqali siz sayt navigatsiyasini yaxshilash, saytdan foydalanishni tahlil qilish va marketing harakatlarimizga yordam berish uchun qurilmangizda cookie-fayllarni saqlashga rozilik bildirasiz.",
+        "set_btn": "Cookie sozlamalari",
+        "asp_btn": "Qabul qilish",
+        "rej_btn": "Rad etish",
+        "modal_head": "Maxfiylik imtiyozlari markazi",
+        "modal_text": "Kompaniya logotipi Maxfiylik imtiyozlari markazi Har qanday veb-saytga tashrif buyurganingizda, u brauzeringizda ma'lumotlarni saqlashi yoki olishi mumkin, asosan cookie fayllari. Bu maʼlumotlar siz, sizning afzalliklaringiz yoki qurilmangiz haqida boʻlishi mumkin va asosan sayt siz kutgandek ishlashi uchun foydalaniladi. Ma'lumotlar odatda sizni to'g'ridan-to'g'ri aniqlamaydi, lekin u sizga yanada shaxsiylashtirilgan veb-tajriba berishi mumkin.",
+        "modal_text2": "Maxfiylik huquqini hurmat qilganimiz sababli, ba'zi cookie-fayllarga ruxsat bermaslikni tanlashingiz mumkin. Qo'shimcha ma'lumot olish va standart sozlamalarimizni o'zgartirish uchun turli toifadagi sarlavhalarni bosing. Biroq, cookie-fayllarning ayrim turlarini blokirovka qilish saytdagi tajribangizga va biz taklif eta oladigan xizmatlarga ta'sir qilishi mumkin."
+    }
+}

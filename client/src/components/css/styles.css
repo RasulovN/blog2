@@ -1,0 +1,80 @@
+
+
+
+
+
+/* contact */
+/* contact map card */
+.mapcard {
+    border: 1px;
+    border-color: red;
+  }
+ 
+  /* contact map card  end*/
+ .phone {
+  position: relative;
+ } 
+ .phon {
+  display: flex;
+  background-color: aliceblue;
+  border-radius: 50%;
+  border: 0px;
+  text-size-adjust: 20px;
+  font-size: 50px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+ } 
+.cntbtn {
+  /* border: 2px solid red; */
+  border-radius: 50%;
+  font-size: small;
+}
+
+  /* contact */
+
+  /* header */
+  /* navSearch */
+  .searchform {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+    align-items: center;
+  }
+  .searchclear {
+    position: absolute;
+    margin: 10px;
+    font-size: medium
+  }
+
+  .newSearch {
+    background-color: red;
+    color: red;
+  }
+  /* navSearch */
+  /* header end */
+
+  /* sign in */
+  .passdiv   {
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* justify-content: start; */
+  }
+  .passInp {
+    padding-right: 30px;
+    width: 100%;
+  }
+  .inpeye {
+    margin: 0;
+    padding: 0;
+    right: 5px;
+    position: absolute;
+  }
+  /* #passInp:focus {
+    background: red;
+  } */
+  /* sign in end */
